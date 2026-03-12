@@ -8,6 +8,20 @@ Preparando-se para o mercado de tecnologia**
 ---
 ## 🚀 Sobre mim
 - 🎓 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- Cursos concluídos: 
+• Git e GitHub: compartilhando e colaborando em projetos - Alura 
+• Lógica de programação: praticando com desafios- Alura 
+• Lógica de programação: mergulhe em programação com JavaScript- Alura 
+• HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags- Alura 
+• JavaScript e HTML: desenvolva um jogo e pratique lógica de programação- Alura 
+• Praticando Java: variáveis e tipos- Alura 
+• HTML e CSS: Classes, posicionamento e Flexbox - Alura 
+• Java: criando a sua primeira aplicação - Alura 
+• Lógica de programação: explore funções e listas - Alura 
+• JavaScript: conhecendo objetos- Alura 
+• JavaScript: conhecendo objetos- Alura 
+• JavaScript: utilizando tipos, variáveis e funções- Alura 
+• Excel Intermediário - Udemy 
 - 📚Sempre aprendendo novas tecnologias e boas práticas de programação 
 ---
 -
