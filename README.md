@@ -1,6 +1,6 @@
 # 👋Olá, eu sou o (Seu Nome)!
 - 🎓Estudante de Desenvolvimento de Sistemas
-- 💻 Focado em Python, HTML e CSS
+- 💻 Focado em Python
 - 🚀Preparando-se para o mercado de tecnologia
 - 📪Como me encontrar:
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:rafael.domingues110@gmail.com) 
